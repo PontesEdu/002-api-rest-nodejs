@@ -78,8 +78,6 @@ Para gerar o build do projeto, utilize:
 
 yarn build
 
-O deploy foi realizado no Render. Caso precise configurar a aplicação, defina as variáveis de ambiente no Render conforme o arquivo .env.
-
 Licença
 
 Este é um projeto de estudos, sem licença específica.
